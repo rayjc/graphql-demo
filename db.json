@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": "11",
+            "firstName": "Bruce",
+            "age": 35,
+            "companyId": "1"
+        },
+        {
+            "id": "20",
+            "firstName": "Tony",
+            "age": 40,
+            "companyId": "2"
+        },
+        {
+            "id": "32",
+            "firstName": "Charles",
+            "age": 50,
+            "companyId": "2"
+        }
+    ],
+    "companies": [
+        {
+            "id": "1",
+            "name": "Wayne Enterprise",
+            "description": "technology"
+        },
+        {
+            "id": "2",
+            "name": "Stark Corporation",
+            "description": "defense"
+        }
+    ]
+}
